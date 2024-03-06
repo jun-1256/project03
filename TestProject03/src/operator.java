@@ -1,5 +1,5 @@
 
-public class operator {
+public class Operator {
 
 	public static void main(String[] args) {
 		// 四則演算、剰余
